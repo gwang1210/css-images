@@ -1,13 +1,14 @@
 /*your custom CSS here*/
-body {
+.heading {
   background-image: url(../img/heading.jpg);
   background-repeat: no-repeat;
-  background-position: 50% 0%;}
+  background-position: 50% 0%;
 }
-h1 {
-  margin: 500px auto 500px auto;
+.heading h1 {
+  color.#fff;
+  font-size 50px;
   text-align: center;
-  border: 20px solid #0088dd;}
+  width: 100%;
 }
 img {
   width: 100%;

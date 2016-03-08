@@ -4,7 +4,7 @@ body {
   background-repeat: no-repeat;
   background-position: 50% 0%;}
 }
-.heading {
+h1 {
   width: 100%;
   top:100;
   left:0;

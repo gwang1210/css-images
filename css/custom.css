@@ -4,3 +4,11 @@ body {
   background-repeat: no-repeat;
   background-position: 50% 0%;}
 }
+.heading {
+  position: fixed;
+  width: 100%;
+  top:0;
+  left:0;
+  padding: 100px 10px 100px 10px;
+}
+

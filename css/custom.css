@@ -5,7 +5,7 @@ body {
   background-position: 50% 0%;}
 }
 h1 {
-  margin: 500px 500px 500px 500px;
+  margin: 500px auto 500px auto;
   text-align: center;
 }
 img {
